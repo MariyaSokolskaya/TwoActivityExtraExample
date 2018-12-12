@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TwoActivityExtraExample</string>
+    <string name="font_size">Введите размер шрифта (от 15 до 40)</string>
+    <string name="text_string">
+        Я веселый колобок, колобок.\n
+        У меня румяный бок, румяный бок.\n
+        Я в печке печен, на окошке я стужен.\n
+        Я от Дедушки ушел, Я от Бабушки ушел,\n
+        Я от Зайчика ушел, я от Волка ушел,\n
+        От Медведя ушел…
+    </string>
+</resources>
